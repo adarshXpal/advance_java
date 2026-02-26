@@ -1,0 +1,255 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "reverseArrayUsingRecusion",
+            "request": "launch",
+            "mainClass": "reverseArrayUsingRecusion",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "twoSum",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "InnerThreadProducerConsumerProblem",
+            "request": "launch",
+            "mainClass": "ThreadScheduling.InnerThreadProducerConsumerProblem",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "ProducerConsumerProblem",
+            "request": "launch",
+            "mainClass": "ThreadScheduling.ProducerConsumerProblem",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "StreamApi.Demo",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListStream",
+            "request": "launch",
+            "mainClass": "StreamApi.ArrayListStream",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "ReverseDigits",
+            "request": "launch",
+            "mainClass": "ReverseDigits",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits",
+            "request": "launch",
+            "mainClass": "CountDigits",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "ArraysClassCollection",
+            "request": "launch",
+            "mainClass": "CollectionApi.ArraysClassCollection",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "HashMapCollection",
+            "request": "launch",
+            "mainClass": "CollectionApi.HashMapCollection",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "LearnSet",
+            "request": "launch",
+            "mainClass": "Implementation.LearnSet",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "HashsetCollection",
+            "request": "launch",
+            "mainClass": "CollectionApi.HashsetCollection",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDequeue",
+            "request": "launch",
+            "mainClass": "CollectionApi.ArrayDequeue",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueueCollection",
+            "request": "launch",
+            "mainClass": "CollectionApi.PriorityQueueCollection",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListQueue",
+            "request": "launch",
+            "mainClass": "CollectionApi.LinkedListQueue",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "StackCollection",
+            "request": "launch",
+            "mainClass": "CollectionApi.StackCollection",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListCollection",
+            "request": "launch",
+            "mainClass": "CollectionApi.ArrayListCollection",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "MapUtil",
+            "request": "launch",
+            "mainClass": "CollectionApi.MapUtil",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "CollectionApi",
+            "request": "launch",
+            "mainClass": "CollectionApi.CollectionApi",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "RaceCondition",
+            "request": "launch",
+            "mainClass": "ThreadScheduling.RaceCondition",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "ThreadScheduling.example",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "ThreadScheduling",
+            "request": "launch",
+            "mainClass": "ThreadScheduling.ThreadScheduling",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "InputStream",
+            "request": "launch",
+            "mainClass": "InputSteam.InputStream",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "Exception.Exceptions",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Exception",
+            "request": "launch",
+            "mainClass": "Exception.Exception",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExpression",
+            "request": "launch",
+            "mainClass": "LambdaExpression.LambdaExpression",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Enum",
+            "request": "launch",
+            "mainClass": "Enum.Enum",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Innerclass",
+            "request": "launch",
+            "mainClass": "Innerclass",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass",
+            "request": "launch",
+            "mainClass": "Demo.InnerClass",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Dummy",
+            "request": "launch",
+            "mainClass": "Dummy",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java-Dev_5d099e1d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "classPaths": [
+                "${workspaceFolder}/Java_Fundamentals"
+            ],
+            "vmArgs": "-Djava.home=/usr/lib/jvm/jdk-25.0.1-oracle-x64"
+        }
+    ]
+}
